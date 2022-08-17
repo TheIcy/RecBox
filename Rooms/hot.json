@@ -44,10 +44,10 @@
          }
       ]
    },
-   "ChickenInABiscuit":{
+   "Test":{
       "Room":{
          "RoomId":168301,
-         "Name":"ChickenInABiscuit",
+         "Name":"RecCenter",
          "Description":"Park",
          "CreatorPlayerId":876634,
          "ImageName":"ActivityChickenInABiscuit.jpg",
