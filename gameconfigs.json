@@ -10,5 +10,45 @@
    {
       "Key":"UseHeartbeatWebSocket",
       "Value":"0"
+   },
+   {
+      "Key":"splitTestSoftOverrides",
+      "Value":"0"
+   },
+   {
+      "Key":"Gift.DropChance",
+      "Value":"0.5"
+   },
+   {
+      "Key":"Gift.Falloff",
+      "Value":"0.5"
+   },
+   {
+      "Key":"Gift.MaxDaily",
+      "Value":"1"
+   },
+   {
+      "Key":"GASamplingRatio",
+      "Value":"0.5"
+   },
+   {
+      "Key":"Door.Creative.Query",
+      "Value":"#creative"
+   },
+   {
+      "Key":"Door.Creative.Title",
+      "Value":"Creative"
+   },
+   {
+      "Key":"Door.Featured.Query",
+      "Value":"#featured"
+   },
+   {
+      "Key":"Door.Featured.Title",
+      "Value":"Featured"
+   },
+   {
+      "Key":"Door.Quests.Query",
+      "Value":"#quest #rro"
    }
 ]
