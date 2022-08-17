@@ -46,11 +46,11 @@
    },
    "Test":{
       "Room":{
-         "RoomId":168301,
+         "RoomId":1,
          "Name":"RecCenter",
-         "Description":"Park",
-         "CreatorPlayerId":876634,
-         "ImageName":"ActivityChickenInABiscuit.jpg",
+         "Description":"RecCenter",
+         "CreatorPlayerId":1,
+         "ImageName":"Rec.jpg",
          "State":0,
          "Accessibility":1,
          "SupportsLevelVoting":false,
@@ -63,7 +63,7 @@
       "Scenes":[
          {
             "RoomSceneId":1,
-            "RoomId":168301,
+            "RoomId":1,
             "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
             "Name":"Home",
             "IsSandbox":true,
