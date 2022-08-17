@@ -1,11 +1,11 @@
 [
    {
       "Key":"Screens.ForceVerification",
-      "Value":"1"
+      "Value":"0"
    },
    {
       "Key":"forceRegistration",
-      "Value":"1"
+      "Value":"0"
    },
    {
       "Key":"UseHeartbeatWebSocket",
