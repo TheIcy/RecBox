@@ -1,1 +1,10 @@
-[1, 2]
+[
+   {
+      "PlayerId":1,
+      "Reason":"Test"
+   },
+   {
+      "PlayerId":2,
+      "Reason":"Test 2"
+   }
+]
