@@ -1,0 +1,32 @@
+[
+   {
+      "RoomId":1,
+      "Name":"Test",
+      "Description":"Test Room",
+      "CreatorPlayerId":1,
+      "ImageName":"Test.png",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":true,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+   },
+   {
+      "RoomId":2,
+      "Name":"2",
+      "Description":"Test 2",
+      "CreatorPlayerId":1,
+      "ImageName":"2.png",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":true,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+   }
+]
