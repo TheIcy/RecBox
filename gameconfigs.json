@@ -2,5 +2,13 @@
    {
       "Key":"Screens.ForceVerification",
       "Value":"1"
+   },
+   {
+      "Key":"forceRegistration",
+      "Value":"1"
+   },
+   {
+      "Key":"UseHeartbeatWebSocket",
+      "Value":"1"
    }
 ]
