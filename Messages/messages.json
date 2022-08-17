@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 48326,
+    "FromPlayerId": 1,
+    "SentTime": "2021-07-29T05:29:02+00:00",
+    "Type": 100,
+    "Data": "Hello, welcome to Rec Box!",
+    "RoomId": 0,
+    "PlayerEventId": 0,
+  }
+]
