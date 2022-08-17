@@ -9,6 +9,6 @@
    },
    {
       "Key":"UseHeartbeatWebSocket",
-      "Value":"1"
+      "Value":"0"
    }
 ]
