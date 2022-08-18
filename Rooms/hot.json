@@ -1,9 +1,9 @@
 {
-   "ChickenInABiscuit":{
+   "Paintball":{
       "Room":{
-         "RoomId":168301,
-         "Name":"ChickenInABiscuit",
-         "Description":"Park",
+         "RoomId":8,
+         "Name":"Paintball",
+         "Description":"Red and Blue teams splat each other in capture the flag and team battle.",
          "CreatorPlayerId":876634,
          "ImageName":"ActivityChickenInABiscuit.jpg",
          "State":0,
@@ -18,11 +18,22 @@
       "Scenes":[
          {
             "RoomSceneId":1,
-            "RoomId":168301,
-            "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
-            "Name":"Home",
-            "IsSandbox":true,
-            "DataBlobName":"VH0PcBxzREau36ICrH7RnQ.room",
+            "RoomId":8,
+            "RoomSceneLocationId":"e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+            "Name":"River",
+            "IsSandbox":false,
+            "DataBlobName":"",
+            "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
+         },
+         {
+            "RoomSceneId":2,
+            "RoomId":9,
+            "RoomSceneLocationId":"a785267d-c579-42ea-be43-fec1992d1ca7",
+            "Name":"Homestead",
+            "IsSandbox":false,
+            "DataBlobName":"",
             "MaxPlayers":20,
             "CanMatchmakeInto":true,
             "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
