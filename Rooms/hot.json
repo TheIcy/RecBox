@@ -9,7 +9,7 @@
          "State":0,
          "Accessibility":1,
          "SupportsLevelVoting":false,
-         "IsAGRoom":false,
+         "IsAGRoom":true,
          "CloningAllowed":false,
          "SupportsScreens":true,
          "SupportsWalkVR":true,
@@ -37,6 +37,17 @@
             "MaxPlayers":20,
             "CanMatchmakeInto":true,
             "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
+         },
+         {
+            "RoomSceneId":3,
+            "RoomId":9,
+            "RoomSceneLocationId":"ff4c6427-7079-4f59-b22a-69b089420827",
+            "Name":"Quarry",
+            "IsSandbox":false,
+            "DataBlobName":"",
+            "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
          }
       ],
       "CoOwners":[
@@ -50,7 +61,7 @@
       "VisitCount":1,
       "Tags":[
          {
-            "Tag":"community",
+            "Tag":"rro",
             "Type":2
          }
       ]
