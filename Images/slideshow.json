@@ -1,0 +1,23 @@
+{
+    "Images": [
+        {
+            "SavedImageId": 1,
+            "ImageName": "ActivityImage_RecCenter.png",
+            "Username": "Icy",
+            "RoomName": "RecCenter"
+        },
+        {
+            "SavedImageId": 2,
+            "ImageName": "ActivityImage_DormRoom.png",
+            "Username": "Icy",
+            "RoomName": "DormRoom"
+        },
+        {
+            "SavedImageId": 3,
+            "ImageName": "ActivityImage_Paintball.png",
+            "Username": "Icy",
+            "RoomName": "Paintball"
+        }
+    ],
+    "ValidTill": "2022-08-29T22:47:54.843Z"
+}
