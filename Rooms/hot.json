@@ -5,7 +5,7 @@
          "Name":"Paintball",
          "Description":"Red and Blue teams splat each other in capture the flag and team battle.",
          "CreatorPlayerId":876634,
-         "ImageName":"ActivityChickenInABiscuit.jpg",
+         "ImageName":"ActivityImage_Paintball.png",
          "State":0,
          "Accessibility":1,
          "SupportsLevelVoting":false,
@@ -45,9 +45,9 @@
       "Hosts":[
          
       ],
-      "CheerCount":3,
-      "FavoriteCount":3,
-      "VisitCount":53,
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
       "Tags":[
          {
             "Tag":"community",
@@ -90,9 +90,9 @@
       "Hosts":[
          
       ],
-      "CheerCount":3,
-      "FavoriteCount":3,
-      "VisitCount":53,
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
       "Tags":[
          {
             "Tag":"rro",
@@ -135,9 +135,9 @@
       "Hosts":[
          
       ],
-      "CheerCount":3,
-      "FavoriteCount":3,
-      "VisitCount":53,
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
       "Tags":[
          {
             "Tag":"rro",
