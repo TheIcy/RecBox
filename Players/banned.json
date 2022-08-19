@@ -1,10 +1,12 @@
 [
    {
       "PlayerId":1,
-      "Reason":"Test"
+      "Reason":"Account not allowed",
+      "Duration":63072000
    },
    {
       "PlayerId":2,
-      "Reason":"Test 2"
+      "Reason":"Test",
+      "Duration":63072000
    }
 ]
