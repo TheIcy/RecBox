@@ -1,0 +1,33 @@
+{
+   "Id":1,
+   "Username":"Coach",
+   "DisplayName":"Coach",
+   "Bio":"Icy was here",
+   "XP":0,
+   "Level":99,
+   "RegistrationStatus":2,
+   "Developer":false,
+   "CanReceiveInvites":true,
+   "ProfileImageName":"no",
+   "JuniorProfile":false,
+   "ForceJuniorImages":false,
+   "PendingJunior":false,
+   "HasBirthday":true,
+   "AvoidJuniors":true,
+   "PlayerReputation":{
+      "Noteriety":0.0,
+      "CheerGeneral":10,
+      "CheerHelpful":10,
+      "CheerGreatHost":10,
+      "CheerSportsman":10,
+      "CheerCreative":10,
+      "CheerCredit":100,
+      "SubscriberCount":0,
+      "SubscribedCount":0,
+      "SelectedCheer":40
+   },
+   "PlatformId":{
+      "Platform":0,
+      "PlatformId":"1"
+   }
+}
