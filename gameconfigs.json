@@ -65,6 +65,10 @@
    },
    {
       "Key":"Door.Sports.Query",
+      "Value":"#sport #rro"
+   },
+   {
+      "Key":"Door.Sports.Title",
       "Value":"SPORTS & PVP"
    }
 ]
