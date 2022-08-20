@@ -390,7 +390,7 @@
          "ImageName":"ActivityImage_LaserTag.png",
          "State":0,
          "Accessibility":1,
-         "SupportsLevelVoting":false,
+         "SupportsLevelVoting":true,
          "IsAGRoom":true,
          "CloningAllowed":false,
          "SupportsScreens":true,
