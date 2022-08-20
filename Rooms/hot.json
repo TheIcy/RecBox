@@ -437,7 +437,7 @@
          }
       ]
    },
-      "RecRoyaleSquads":{
+   "RecRoyaleSquads":{
       "Room":{
          "RoomId":13,
          "Name":"RecRoyaleSquads",
@@ -458,6 +458,51 @@
             "RoomSceneId":1,
             "RoomId":13,
             "RoomSceneLocationId":"253fa009-6e65-4c90-91a1-7137a56a267f",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"rro",
+            "Type":2
+         }
+      ]
+   },
+   "RecRoyaleSolos":{
+      "Room":{
+         "RoomId":14,
+         "Name":"RecRoyaleSolos",
+         "Description":"Battle it out on Frontier Island. Last person standing wins!",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_RecRoyale.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":true,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":14,
+            "RoomSceneLocationId":"b010171f-4875-4e89-baba-61e878cd41e1",
             "Name":"Home",
             "IsSandbox":true,
             "DataBlobName":"",
