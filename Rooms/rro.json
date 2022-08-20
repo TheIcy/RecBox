@@ -488,7 +488,7 @@
          "Name":"RecRoyaleSolos",
          "Description":"Battle it out on Frontier Island. Last person standing wins!",
          "CreatorPlayerId":1,
-         "ImageName":"ActivityImage_RecRoyale.png",
+         "ImageName":"ActivityImage_Dodgeball.png",
          "State":0,
          "Accessibility":1,
          "SupportsLevelVoting":true,
