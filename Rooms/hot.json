@@ -446,7 +446,7 @@
          "ImageName":"ActivityImage_RecRoyale.png",
          "State":0,
          "Accessibility":1,
-         "SupportsLevelVoting":true,
+         "SupportsLevelVoting":false,
          "IsAGRoom":true,
          "CloningAllowed":false,
          "SupportsScreens":true,
@@ -491,7 +491,7 @@
          "ImageName":"ActivityImage_RecRoyale.png",
          "State":0,
          "Accessibility":1,
-         "SupportsLevelVoting":true,
+         "SupportsLevelVoting":false,
          "IsAGRoom":true,
          "CloningAllowed":false,
          "SupportsScreens":true,
@@ -507,6 +507,51 @@
             "IsSandbox":true,
             "DataBlobName":"",
             "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"rro",
+            "Type":2
+         }
+      ]
+   },
+   "Dodgeball":{
+      "Room":{
+         "RoomId":15,
+         "Name":"Dodgeball",
+         "Description":"Throw dodgeballs to knock out your friends in this gym classic!",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_RecRoyale.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":15,
+            "RoomSceneLocationId":"3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+            "Name":"dodgeball",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":6,
             "CanMatchmakeInto":true,
             "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
          }
