@@ -200,5 +200,50 @@
             "Type":2
          }
       ]
+   },
+   "TheRiseofJumbotron":{
+      "Room":{
+         "RoomId":7,
+         "Name":"TheRiseofJumbotron",
+         "Description":"Robot invaders threaten the galaxy! Team up with your friends and bring the laser heat!",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_TheRiseofJumbotron.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":7,
+            "RoomSceneLocationId":"acc06e66-c2d0-4361-b0cd-46246a4c455c",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":4,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"rro",
+            "Type":2
+         }
+      ]
    }
 }
