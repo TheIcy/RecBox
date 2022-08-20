@@ -533,7 +533,7 @@
          "Name":"Dodgeball",
          "Description":"Throw dodgeballs to knock out your friends in this gym classic!",
          "CreatorPlayerId":1,
-         "ImageName":"ActivityImage_RecRoyale.png",
+         "ImageName":"ActivityImage_Dodgeball.png",
          "State":0,
          "Accessibility":1,
          "SupportsLevelVoting":false,
