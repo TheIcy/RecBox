@@ -407,7 +407,7 @@
             "DataBlobName":"",
             "MaxPlayers":4,
             "CanMatchmakeInto":true,
-            "DataModifiedAt":"2018-09-27T21:47:23.7411183Z"
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
          },
          {
             "RoomSceneId":2,
@@ -418,7 +418,7 @@
             "DataBlobName":"",
             "MaxPlayers":4,
             "CanMatchmakeInto":true,
-            "DataModifiedAt":"2018-09-27T21:47:23.7411183Z"
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
          }
       ],
       "CoOwners":[
