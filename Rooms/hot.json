@@ -384,7 +384,7 @@
    "LaserTag":{
       "Room":{
          "RoomId":11,
-         "Name":"QuestForDracula",
+         "Name":"LaserTag",
          "Description":"Teams battle each other and waves of robots.",
          "CreatorPlayerId":1,
          "ImageName":"ActivityImage_LaserTag.png",
