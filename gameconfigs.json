@@ -37,7 +37,7 @@
    },
    {
       "Key":"Door.Creative.Title",
-      "Value":"Creative"
+      "Value":"PUZZLE"
    },
    {
       "Key":"Door.Featured.Query",
@@ -50,5 +50,21 @@
    {
       "Key":"Door.Quests.Query",
       "Value":"#quest #rro"
+   },
+   {
+      "Key":"Door.Quests.Title",
+      "Value":"QUESTS"
+   },
+   {
+      "Key":"Door.Shooters.Title",
+      "Value":"PVP"
+   },
+   {
+      "Key":"Door.Shooters.Query",
+      "Value":"#pvp #rro"
+   },
+   {
+      "Key":"Door.Sports.Query",
+      "Value":"SPORTS & PVP"
    }
 ]
