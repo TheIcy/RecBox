@@ -1,71 +1,4 @@
 {
-   "Paintball":{
-      "Room":{
-         "RoomId":1,
-         "Name":"Paintball",
-         "Description":"Red and Blue teams splat each other in capture the flag and team battle.",
-         "CreatorPlayerId":876634,
-         "ImageName":"ActivityImage_Paintball.png",
-         "State":0,
-         "Accessibility":1,
-         "SupportsLevelVoting":false,
-         "IsAGRoom":true,
-         "CloningAllowed":false,
-         "SupportsScreens":true,
-         "SupportsWalkVR":true,
-         "SupportsTeleportVR":true
-      },
-      "Scenes":[
-         {
-            "RoomSceneId":1,
-            "RoomId":1,
-            "RoomSceneLocationId":"e122fe98-e7db-49e8-a1b1-105424b6e1f0",
-            "Name":"River",
-            "IsSandbox":false,
-            "DataBlobName":"",
-            "MaxPlayers":20,
-            "CanMatchmakeInto":true,
-            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
-         },
-         {
-            "RoomSceneId":2,
-            "RoomId":2,
-            "RoomSceneLocationId":"a785267d-c579-42ea-be43-fec1992d1ca7",
-            "Name":"Homestead",
-            "IsSandbox":false,
-            "DataBlobName":"",
-            "MaxPlayers":20,
-            "CanMatchmakeInto":true,
-            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
-         },
-         {
-            "RoomSceneId":3,
-            "RoomId":3,
-            "RoomSceneLocationId":"ff4c6427-7079-4f59-b22a-69b089420827",
-            "Name":"Quarry",
-            "IsSandbox":false,
-            "DataBlobName":"",
-            "MaxPlayers":20,
-            "CanMatchmakeInto":true,
-            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
-         }
-      ],
-      "CoOwners":[
-         
-      ],
-      "Hosts":[
-         
-      ],
-      "CheerCount":1,
-      "FavoriteCount":1,
-      "VisitCount":1,
-      "Tags":[
-         {
-            "Tag":"rro",
-            "Type":2
-         }
-      ]
-   },
    "DormRoom":{
       "Room":{
          "RoomId":5,
@@ -156,7 +89,74 @@
          }
       ]
    },
-      "GoldenTrophy":{
+   "Paintball":{
+      "Room":{
+         "RoomId":1,
+         "Name":"Paintball",
+         "Description":"Red and Blue teams splat each other in capture the flag and team battle.",
+         "CreatorPlayerId":876634,
+         "ImageName":"ActivityImage_Paintball.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":1,
+            "RoomSceneLocationId":"e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+            "Name":"River",
+            "IsSandbox":false,
+            "DataBlobName":"",
+            "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
+         },
+         {
+            "RoomSceneId":2,
+            "RoomId":2,
+            "RoomSceneLocationId":"a785267d-c579-42ea-be43-fec1992d1ca7",
+            "Name":"Homestead",
+            "IsSandbox":false,
+            "DataBlobName":"",
+            "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
+         },
+         {
+            "RoomSceneId":3,
+            "RoomId":3,
+            "RoomSceneLocationId":"ff4c6427-7079-4f59-b22a-69b089420827",
+            "Name":"Quarry",
+            "IsSandbox":false,
+            "DataBlobName":"",
+            "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"rro",
+            "Type":2
+         }
+      ]
+   },
+   "GoldenTrophy":{
       "Room":{
          "RoomId":7,
          "Name":"GoldenTrophy",
