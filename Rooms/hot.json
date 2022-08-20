@@ -68,7 +68,7 @@
    },
    "DormRoom":{
       "Room":{
-         "RoomId":4,
+         "RoomId":5,
          "Name":"DormRoom",
          "Description":"Your private room",
          "CreatorPlayerId":1,
