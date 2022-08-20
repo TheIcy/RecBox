@@ -339,10 +339,10 @@
       "GoKartQuest":{
       "Room":{
          "RoomId":10,
-         "Name":"GoKartQuest",
+         "Name":"QuestForDracula",
          "Description":"Beta Crescendo",
          "CreatorPlayerId":1,
-         "ImageName":"ActivityImage_GoKartQuest.png",
+         "ImageName":"ActivityImage_QuestForDracula.png",
          "State":0,
          "Accessibility":1,
          "SupportsLevelVoting":false,
