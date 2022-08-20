@@ -245,5 +245,50 @@
             "Type":2
          }
       ]
+   },
+   "CrimsonCauldron":{
+      "Room":{
+         "RoomId":8,
+         "Name":"CrimsonCauldron",
+         "Description":"Can your band of adventurers brave the enchanted wilds, and lift the curse of the crimson cauldron?",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_CrimsonCauldron.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":8,
+            "RoomSceneLocationId":"949fa41f-4347-45c0-b7ac-489129174045",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":4,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"rro",
+            "Type":2
+         }
+      ]
    }
 }
