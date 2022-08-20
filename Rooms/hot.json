@@ -290,5 +290,50 @@
             "Type":2
          }
       ]
+   },
+   "IsleOfLostSkulls":{
+      "Room":{
+         "RoomId":9,
+         "Name":"IsleOfLostSkulls",
+         "Description":"Can your pirate crew get to the Isle, defeat its fearsome guardian, and escape with the gold?",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_IsleOfLostSkulls.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":9,
+            "RoomSceneLocationId":"7e01cfe0-820a-406f-b1b3-0a5bf575235c",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":4,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"rro",
+            "Type":2
+         }
+      ]
    }
 }
