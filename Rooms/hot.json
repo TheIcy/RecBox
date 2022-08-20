@@ -1,7 +1,7 @@
 {
    "DormRoom":{
       "Room":{
-         "RoomId":5,
+         "RoomId":1,
          "Name":"DormRoom",
          "Description":"Your private room",
          "CreatorPlayerId":1,
@@ -18,7 +18,7 @@
       "Scenes":[
          {
             "RoomSceneId":1,
-            "RoomId":5,
+            "RoomId":1,
             "RoomSceneLocationId":"76d98498-60a1-430c-ab76-b54a29b7a163",
             "Name":"dormroom2",
             "IsSandbox":true,
@@ -46,7 +46,7 @@
    },
    "RecCenter":{
       "Room":{
-         "RoomId":6,
+         "RoomId":2,
          "Name":"RecCenter",
          "Description":"A social hub to meet and mingle with friends new and old.",
          "CreatorPlayerId":1,
@@ -63,7 +63,7 @@
       "Scenes":[
          {
             "RoomSceneId":1,
-            "RoomId":6,
+            "RoomId":2,
             "RoomSceneLocationId":"cbad71af-0831-44d8-b8ef-69edafa841f6",
             "Name":"reccenter",
             "IsSandbox":true,
@@ -91,7 +91,7 @@
    },
    "Paintball":{
       "Room":{
-         "RoomId":1,
+         "RoomId":3,
          "Name":"Paintball",
          "Description":"Red and Blue teams splat each other in capture the flag and team battle.",
          "CreatorPlayerId":876634,
@@ -108,7 +108,7 @@
       "Scenes":[
          {
             "RoomSceneId":1,
-            "RoomId":1,
+            "RoomId":3,
             "RoomSceneLocationId":"e122fe98-e7db-49e8-a1b1-105424b6e1f0",
             "Name":"River",
             "IsSandbox":false,
@@ -119,7 +119,7 @@
          },
          {
             "RoomSceneId":2,
-            "RoomId":2,
+            "RoomId":4,
             "RoomSceneLocationId":"a785267d-c579-42ea-be43-fec1992d1ca7",
             "Name":"Homestead",
             "IsSandbox":false,
@@ -130,7 +130,7 @@
          },
          {
             "RoomSceneId":3,
-            "RoomId":3,
+            "RoomId":5,
             "RoomSceneLocationId":"ff4c6427-7079-4f59-b22a-69b089420827",
             "Name":"Quarry",
             "IsSandbox":false,
@@ -158,7 +158,7 @@
    },
    "GoldenTrophy":{
       "Room":{
-         "RoomId":7,
+         "RoomId":6,
          "Name":"GoldenTrophy",
          "Description":"The goblin king stole Coach's Golden Trophy. Team up and embark on an epic quest to recover it!",
          "CreatorPlayerId":1,
@@ -175,7 +175,7 @@
       "Scenes":[
          {
             "RoomSceneId":1,
-            "RoomId":7,
+            "RoomId":6,
             "RoomSceneLocationId":"91e16e35-f48f-4700-ab8a-a1b79e50e51b",
             "Name":"Home",
             "IsSandbox":true,
