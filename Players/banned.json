@@ -1,7 +1,7 @@
 [
    {
-      "PlayerId":759,
-      "Reason":"BIG BAN",
-      "Duration":60
+      "PlayerId":1,
+      "Reason":"Test",
+      "Duration":120
    }
 ]
