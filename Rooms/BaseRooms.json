@@ -1,0 +1,17 @@
+[
+   {
+      "RoomId":24,
+      "Name":"MakerRoom",
+      "Description":"This room is a blank canvas. Make it into whatever you like!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityImage_MakerRoom.png",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":true,
+      "CloningAllowed":true,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+   }
+]
