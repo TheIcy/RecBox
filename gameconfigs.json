@@ -70,5 +70,9 @@
    {
       "Key":"Door.Sports.Title",
       "Value":"SPORTS & PVP"
+   },
+   {
+      "Key":"splitTestHardOverrides",
+      "Value":"1"
    }
 ]
