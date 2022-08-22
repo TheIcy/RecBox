@@ -3,6 +3,15 @@
    "NextUpdate":"2022-09-06T20:25:32.5889204+10:00",
    "StoreItems":[
       {
+         "PurchasableItemId":69,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":1,
+               "Price":0
+            }
+         ],
          "GiftDrops":[
             {
                "GiftDropId":69,
