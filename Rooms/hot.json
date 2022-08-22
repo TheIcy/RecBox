@@ -1,49 +1,4 @@
 {
-   "DormRoom":{
-      "Room":{
-         "RoomId":1,
-         "Name":"DormRoom",
-         "Description":"Your private room",
-         "CreatorPlayerId":1,
-         "ImageName":"ActivityImage_DormRoom.png",
-         "State":0,
-         "Accessibility":1,
-         "SupportsLevelVoting":false,
-         "IsAGRoom":true,
-         "CloningAllowed":false,
-         "SupportsScreens":true,
-         "SupportsWalkVR":true,
-         "SupportsTeleportVR":true
-      },
-      "Scenes":[
-         {
-            "RoomSceneId":1,
-            "RoomId":1,
-            "RoomSceneLocationId":"76d98498-60a1-430c-ab76-b54a29b7a163",
-            "Name":"dormroom2",
-            "IsSandbox":true,
-            "DataBlobName":"",
-            "MaxPlayers":0,
-            "CanMatchmakeInto":true,
-            "DataModifiedAt":"2018-09-27T21:47:23.7411183Z"
-         }
-      ],
-      "CoOwners":[
-         
-      ],
-      "Hosts":[
-         
-      ],
-      "CheerCount":1,
-      "FavoriteCount":1,
-      "VisitCount":1,
-      "Tags":[
-         {
-            "Tag":"rro",
-            "Type":2
-         }
-      ]
-   },
    "RecCenter":{
       "Room":{
          "RoomId":2,
