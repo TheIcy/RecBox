@@ -247,6 +247,10 @@
          {
             "Tag":"recroomoriginal",
             "Type":2
+         },
+         {
+            "Tag":"quest",
+            "Type":2
          }
       ]
    },
@@ -291,6 +295,10 @@
       "Tags":[
          {
             "Tag":"recroomoriginal",
+            "Type":2
+         },
+         {
+            "Tag":"quest",
             "Type":2
          }
       ]
@@ -337,6 +345,10 @@
          {
             "Tag":"recroomoriginal",
             "Type":2
+         },
+         {
+            "Tag":"quest",
+            "Type":2
          }
       ]
    },
@@ -381,6 +393,10 @@
       "Tags":[
          {
             "Tag":"recroomoriginal",
+            "Type":2
+         },
+         {
+            "Tag":"quest",
             "Type":2
          }
       ]
