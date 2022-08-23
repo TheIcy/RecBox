@@ -1,15 +1,15 @@
 [
    [
       {
-         "type":1,
-         "score":1
+         "type":300,
+         "score":5
       },
       {
-         "type":1,
-         "score":1
+         "type":401,
+         "score":5
       },
       {
-         "type":1,
+         "type":1001,
          "score":1
       }
    ],
