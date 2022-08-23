@@ -1,53 +1,51 @@
-[
-   {
-      "ChallengeMapId":3,
-      "CompleteAll":true,
-      "StartAt":"2021-08-16T19:57:56.0943552-04:00",
-      "EndAt":"2024-08-16T19:57:56.0943552-04:00",
-      "ServerTime":"2022-08-17T08:24:38+00:00",
-      "Challenges": [
-         {
-            "ChallengeId":142,
-            "Name":"CompleteCCC",
-            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
-            "Description":"Complete the ^CrimsonCauldron quest",
-            "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
-            "Complete":false
-         },
-         {
-            "ChallengeId":142,
-            "Name":"CompleteCCC",
-            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
-            "Description":"Complete the ^CrimsonCauldron quest",
-            "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
-            "Complete":false
-         },
-         {
-            "ChallengeId":142,
-            "Name":"CompleteCCC",
-            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
-            "Description":"Complete the ^CrimsonCauldron quest",
-            "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
-            "Complete":false
-         }
-      ],
-      "Gifts":[
-         {
-            "GiftDropId":35465,
-            "FriendlyName":"MakerPEnTester",
-            "Tooltip":"",
-            "AvatarItemDesc":"",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"[MakerPen]",
-            "EquipmentModificationGuid":"79090a4b-e191-4788-9210-88a7bdf6d828",
-            "Rarity":50,
-            "IsQuery":false,
-            "Unique":false,
-            "Level":1,
-            "Context":4
-         }
-      ],
-      "ChallengeThemeString":"Maker Pen",
-      "ChallengeThemeId":3
-   }
-]
+{
+   "ChallengeMapId":3,
+   "CompleteAll":true,
+   "StartAt":"2021-08-16T19:57:56.0943552-04:00",
+   "EndAt":"2024-08-16T19:57:56.0943552-04:00",
+   "ServerTime":"2022-08-17T08:24:38+00:00",
+   "Challenges":[
+      {
+         "ChallengeId":142,
+         "Name":"CompleteCCC",
+         "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
+         "Description":"Complete the ^CrimsonCauldron quest",
+         "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
+         "Complete":false
+      },
+      {
+         "ChallengeId":142,
+         "Name":"CompleteCCC",
+         "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
+         "Description":"Complete the ^CrimsonCauldron quest",
+         "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
+         "Complete":false
+      },
+      {
+         "ChallengeId":142,
+         "Name":"CompleteCCC",
+         "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
+         "Description":"Complete the ^CrimsonCauldron quest",
+         "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
+         "Complete":false
+      }
+   ],
+   "Gifts":[
+      {
+         "GiftDropId":35465,
+         "FriendlyName":"MakerPEnTester",
+         "Tooltip":"",
+         "AvatarItemDesc":"",
+         "ConsumableItemDesc":"",
+         "EquipmentPrefabName":"[MakerPen]",
+         "EquipmentModificationGuid":"79090a4b-e191-4788-9210-88a7bdf6d828",
+         "Rarity":50,
+         "IsQuery":false,
+         "Unique":false,
+         "Level":1,
+         "Context":4
+      }
+   ],
+   "ChallengeThemeString":"Maker Pen",
+   "ChallengeThemeId":3
+}
