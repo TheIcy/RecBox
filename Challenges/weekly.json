@@ -33,12 +33,12 @@
    "Gifts":[
       {
          "GiftDropId":35465,
-         "FriendlyName":"MakerPEnTester",
+         "FriendlyName":"TestWeekly",
          "Tooltip":"",
          "AvatarItemDesc":"",
          "ConsumableItemDesc":"",
-         "EquipmentPrefabName":"[MakerPen]",
-         "EquipmentModificationGuid":"79090a4b-e191-4788-9210-88a7bdf6d828",
+         "EquipmentPrefabName":"[LongBow]",
+         "EquipmentModificationGuid":"52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
          "Rarity":50,
          "IsQuery":false,
          "Unique":false,
