@@ -1,5 +1,5 @@
 {
-   "ChallengeMapId":3,
+   "ChallengeMapId":1,
    "CompleteAll":true,
    "StartAt":"2021-08-16T19:57:56.0943552-04:00",
    "EndAt":"2022-08-25T01:51:35.000Z",
@@ -14,7 +14,7 @@
          "Complete":false
       },
       {
-         "ChallengeId":142,
+         "ChallengeId":143,
          "Name":"CompleteCCC",
          "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
          "Description":"Complete the ^CrimsonCauldron quest",
@@ -22,7 +22,7 @@
          "Complete":false
       },
       {
-         "ChallengeId":142,
+         "ChallengeId":144,
          "Name":"CompleteCCC",
          "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045",
          "Description":"Complete the ^CrimsonCauldron quest",
@@ -46,6 +46,6 @@
          "Context":4
       }
    ],
-   "ChallengeThemeString":"Ghost Bow",
-   "ChallengeThemeId":3
+   "ChallengeThemeString":"Bow Skin",
+   "ChallengeThemeId":1
 }
