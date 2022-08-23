@@ -591,5 +591,95 @@
             "Type":2
          }
       ]
+   },
+   "Paddleball":{
+      "Room":{
+         "RoomId":16,
+         "Name":"Paddleball",
+         "Description":"A simple rally game between two players in a plexiglass tube with a zero-g ball.",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_Paddleball.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":16,
+            "RoomSceneLocationId":"d89f74fa-d51e-477a-a425-025a891dd499",
+            "Name":"paddleball",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":2,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"recroomoriginal",
+            "Type":2
+         }
+      ]
+   },
+   "3DCharades":{
+      "Room":{
+         "RoomId":17,
+         "Name":"3DCharades",
+         "Description":"Take turns drawing, acting, and guessing funny phrases with your friends!",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_Paddleball.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":17,
+            "RoomSceneLocationId":"4078dfed-24bb-4db7-863f-578ba48d726b",
+            "Name":"charades",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":2,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"recroomoriginal",
+            "Type":2
+         }
+      ]
    }
 }
