@@ -43,5 +43,95 @@
             "Type":2
          }
       ]
+   },
+   "SuperMarioBros":{
+      "Room":{
+         "RoomId":128394,
+         "Name":"SuperMarioBros",
+         "Description":"it's mario. do you need more?",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_RecCenter.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":false,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":128394,
+            "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"pOu_sZ9hzE2HaiSJx3STEA.room",
+            "MaxPlayers":16,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-06T10:26:15.2591875Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"community",
+            "Type":2
+         }
+      ]
+   },
+   "TheOfficePVP":{
+      "Room":{
+         "RoomId":2365681,
+         "Name":"TheOfficePVP",
+         "Description":"Paintball. Dunder Mifflin style.",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_RecCenter.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":false,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":2365681,
+            "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"ymK88QJu70SpdgWp-UWxlw.room",
+            "MaxPlayers":16,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-06T10:26:15.2591875Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"community",
+            "Type":2
+         }
+      ]
    }
 }
