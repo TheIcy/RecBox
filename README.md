@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/TheIcy/RecBox/blob/main/Images/DefaultProfileImage.png?raw=true" height="200">
+<p align="center"><img src="https://github.com/TheIcy/RecBox/blob/main/Images/DefaultProfileImage.png?raw=true" height="150">
 </p>
 
 <h1 align="center">Rec Box</h1>
