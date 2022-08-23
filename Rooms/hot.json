@@ -223,5 +223,50 @@
             "Type":2
          }
       ]
+   },
+   "Aquaticvibez":{
+      "Room":{
+         "RoomId":2365682,
+         "Name":"Aquaticvibez",
+         "Description":"water",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_RecCenter.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":false,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":2365682,
+            "RoomSceneLocationId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"EEVTMr0UnkCfLGfUnU66zQ.room",
+            "MaxPlayers":4,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-06T10:26:15.2591875Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"community",
+            "Type":2
+         }
+      ]
    }
 }
