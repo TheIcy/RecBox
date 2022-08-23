@@ -268,5 +268,50 @@
             "Type":2
          }
       ]
+   },
+      "MurderMansion":{
+      "Room":{
+         "RoomId":2365683,
+         "Name":"MurderMansion",
+         "Description":"kill. get away with it. survive.",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_RecCenter.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":false,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":2365683,
+            "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"tfd-0hDjQ0W42jOgljAO6Q.room",
+            "MaxPlayers":4,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-06T10:26:15.2591875Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"community",
+            "Type":2
+         }
+      ]
    }
 }
