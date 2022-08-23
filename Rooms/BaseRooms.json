@@ -2,7 +2,7 @@
    "MakerRoom":{
       "Room":{
          "RoomId":100,
-         "Name":"NameRoom",
+         "Name":"MakerRoom",
          "Description":"This room is a blank canvas. Make it into whatever you like!",
          "CreatorPlayerId":1,
          "ImageName":"ActivityImage_MakerRoom.png",
@@ -20,6 +20,51 @@
             "RoomSceneId":1,
             "RoomId":100,
             "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":20,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-09-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"rro",
+            "Type":2
+         }
+      ]
+   },
+   "Park":{
+      "Room":{
+         "RoomId":101,
+         "Name":"Park",
+         "Description":"Park",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_Park.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":101,
+            "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
             "Name":"Home",
             "IsSandbox":true,
             "DataBlobName":"",
