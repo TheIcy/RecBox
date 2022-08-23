@@ -681,5 +681,95 @@
             "Type":2
          }
       ]
+   },
+   "DiscGolfLake":{
+      "Room":{
+         "RoomId":18,
+         "Name":"DiscGolfLake",
+         "Description":"A leisurely stroll through the grass. Throw your disc into the goal. Sounds easy, right?",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_DiscGolfLake.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":18,
+            "RoomSceneLocationId":"f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+            "Name":"discgolf",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":8,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"recroomoriginal",
+            "Type":2
+         }
+      ]
+   },
+   "DiscGolfPropulsion":{
+      "Room":{
+         "RoomId":19,
+         "Name":"DiscGolfPropulsion",
+         "Description":"Throw your disc through hazards and around wind machines on this challenging course!",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_DiscGolfPropulsion.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":19,
+            "RoomSceneLocationId":"d9378c9f-80bc-46fb-ad1e-1bed8a674f55",
+            "Name":"Discgolf_Propulsion",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":8,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"recroomoriginal",
+            "Type":2
+         }
+      ]
    }
 }
