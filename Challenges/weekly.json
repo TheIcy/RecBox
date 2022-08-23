@@ -37,8 +37,8 @@
          "Tooltip":"",
          "AvatarItemDesc":"",
          "ConsumableItemDesc":"",
-         "EquipmentPrefabName":"[LongBow]",
-         "EquipmentModificationGuid":"52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
+         "EquipmentPrefabName":"[Crossbow_Hunter]",
+         "EquipmentModificationGuid":"d217ee4c-22f3-4f33-bf7c-9d4ee9c30e29",
          "Rarity":50,
          "IsQuery":false,
          "Unique":false,
@@ -46,6 +46,6 @@
          "Context":4
       }
    ],
-   "ChallengeThemeString":"Bow Skin",
+   "ChallengeThemeString":"Rock Steady",
    "ChallengeThemeId":1
 }
