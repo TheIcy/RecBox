@@ -48,7 +48,7 @@
       "Room":{
          "RoomId":101,
          "Name":"Park",
-         "Description":"Park",
+         "Description":"A sprawling park with amphitheater, play fields, and a cave.",
          "CreatorPlayerId":1,
          "ImageName":"ActivityImage_Park.png",
          "State":0,
