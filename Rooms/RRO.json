@@ -661,7 +661,7 @@
             "Name":"charades",
             "IsSandbox":true,
             "DataBlobName":"",
-            "MaxPlayers":2,
+            "MaxPlayers":20,
             "CanMatchmakeInto":true,
             "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
          }
