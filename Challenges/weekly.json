@@ -1,6 +1,6 @@
 {
    "ChallengeMapId":1,
-   "CompleteAll":false,
+   "CompleteAll":true,
    "StartAt":"2021-08-16T19:57:56.0943552-04:00",
    "EndAt":"2022-08-25T01:51:35.000Z",
    "ServerTime":"2022-07-17T08:24:38+00:00",
