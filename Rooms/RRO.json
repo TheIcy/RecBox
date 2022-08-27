@@ -374,7 +374,7 @@
             "RoomId":10,
             "RoomSceneLocationId":"49cb8993-a956-43e2-86f4-1318f279b22a",
             "Name":"Home",
-            "IsSandbox":true,
+            "IsSandbox":false,
             "DataBlobName":"",
             "MaxPlayers":4,
             "CanMatchmakeInto":true,
