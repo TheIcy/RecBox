@@ -771,5 +771,50 @@
             "Type":2
          }
       ]
+   },
+   "ArtTesting":{
+      "Room":{
+         "RoomId":20,
+         "Name":"ArtTesting",
+         "Description":"Debug",
+         "CreatorPlayerId":1,
+         "ImageName":"ActivityImage_DiscGolfPropulsion.png",
+         "State":0,
+         "Accessibility":1,
+         "SupportsLevelVoting":false,
+         "IsAGRoom":true,
+         "CloningAllowed":false,
+         "SupportsScreens":true,
+         "SupportsWalkVR":true,
+         "SupportsTeleportVR":true
+      },
+      "Scenes":[
+         {
+            "RoomSceneId":1,
+            "RoomId":20,
+            "RoomSceneLocationId":"a95c349c-0f96-4c2d-a4c8-4969ffa8ea44",
+            "Name":"Home",
+            "IsSandbox":true,
+            "DataBlobName":"",
+            "MaxPlayers":8,
+            "CanMatchmakeInto":true,
+            "DataModifiedAt":"2018-08-27T21:47:23.7411183Z"
+         }
+      ],
+      "CoOwners":[
+         
+      ],
+      "Hosts":[
+         
+      ],
+      "CheerCount":1,
+      "FavoriteCount":1,
+      "VisitCount":1,
+      "Tags":[
+         {
+            "Tag":"recroomoriginal",
+            "Type":2
+         }
+      ]
    }
 }
