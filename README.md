@@ -3,7 +3,7 @@
 
 <h1 align="center">Rec Box</h1>
 
-## Features
+## Features (Builds With RecNet)
 - Full account creation
 - Full account customization
 - Custom rooms
