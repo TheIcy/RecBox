@@ -1,15 +1,9 @@
 [
    {
-      "Name":"September 27th, 2018",
-      "Manifest":"5112800850661766506",
-      "Data":"1K96rMKCpSGykQXQI2OOBwXka43SWDJM5",
-      "RequiresRecNet":true,
-      "ServerVersion":"2018.9.20"
-   },
-   {
       "Name":"October 18th, 2016",
       "Manifest":"5317305413924462757",
       "Data":"1J5PCxi16t80KZcJVHqy5fFVVL3wfZNcn",
+      "SupportScreen":false,
       "RequiresRecNet":true,
       "ServerVersion":"2016.10.10"
    }
