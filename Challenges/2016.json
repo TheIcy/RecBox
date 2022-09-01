@@ -2,17 +2,17 @@
    [
       {
          "type":100,
-         "score":3,
+         "score":1,
          "xp":150
       },
       {
-         "type":400,
+         "type":301,
          "score":2,
          "xp":75
       },
       {
-         "type":301,
-         "score":10,
+         "type":302,
+         "score":12,
          "xp":150
       }
    ],
