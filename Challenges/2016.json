@@ -19,103 +19,103 @@
    [
       {
          "type":100,
-         "score":3,
-         "xp":25
-      },
-      {
-         "type":400,
-         "score":2,
-         "xp":25
+         "score":1,
+         "xp":150
       },
       {
          "type":301,
-         "score":10,
-         "xp":25
+         "score":2,
+         "xp":75
+      },
+      {
+         "type":302,
+         "score":12,
+         "xp":150
       }
    ],
    [
       {
          "type":100,
-         "score":3,
-         "xp":25
-      },
-      {
-         "type":400,
-         "score":2,
-         "xp":25
+         "score":1,
+         "xp":150
       },
       {
          "type":301,
-         "score":10,
-         "xp":25
+         "score":2,
+         "xp":75
+      },
+      {
+         "type":302,
+         "score":12,
+         "xp":150
       }
    ],
    [
       {
          "type":100,
-         "score":3,
-         "xp":25
-      },
-      {
-         "type":400,
-         "score":2,
-         "xp":25
+         "score":1,
+         "xp":150
       },
       {
          "type":301,
-         "score":10,
-         "xp":25
+         "score":2,
+         "xp":75
+      },
+      {
+         "type":302,
+         "score":12,
+         "xp":150
       }
    ],
    [
       {
          "type":100,
-         "score":3,
-         "xp":25
-      },
-      {
-         "type":400,
-         "score":2,
-         "xp":25
+         "score":1,
+         "xp":150
       },
       {
          "type":301,
-         "score":10,
-         "xp":25
+         "score":2,
+         "xp":75
+      },
+      {
+         "type":302,
+         "score":12,
+         "xp":150
       }
    ],
    [
       {
          "type":100,
-         "score":3,
-         "xp":25
-      },
-      {
-         "type":400,
-         "score":2,
-         "xp":25
+         "score":1,
+         "xp":150
       },
       {
          "type":301,
-         "score":10,
-         "xp":25
+         "score":2,
+         "xp":75
+      },
+      {
+         "type":302,
+         "score":12,
+         "xp":150
       }
    ],
    [
       {
          "type":100,
-         "score":3,
-         "xp":25
-      },
-      {
-         "type":400,
-         "score":2,
-         "xp":25
+         "score":1,
+         "xp":150
       },
       {
          "type":301,
-         "score":10,
-         "xp":25
+         "score":2,
+         "xp":75
+      },
+      {
+         "type":302,
+         "score":12,
+         "xp":150
       }
    ]
 ]
