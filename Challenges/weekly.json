@@ -8,7 +8,7 @@
       {
          "ChallengeId":142,
          "Name":"CompleteILS",
-         "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:7e01cfe0-820a-406f-b1b3-0a5bf575235c}",
+         "Config":"{ct:0,ipc:false,wc:[ct:0]}",
          "Description":"Complete the ^CrimsonCauldron quest",
          "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
          "Complete":false
@@ -19,7 +19,7 @@
          "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045}",
          "Description":"Complete the ^CrimsonCauldron quest",
          "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
-         "Complete":false
+         "Complete":true
       },
       {
          "ChallengeId":144,
@@ -27,7 +27,7 @@
          "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045}",
          "Description":"Complete the ^CrimsonCauldron quest",
          "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
-         "Complete":false
+         "Complete":true
       }
    ],
    "Gifts":[
