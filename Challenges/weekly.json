@@ -2,13 +2,13 @@
    "ChallengeMapId":1,
    "CompleteAll":true,
    "StartAt":"2021-08-16T19:57:56.0943552-04:00",
-   "EndAt":"2022-09-05T16:00:00.000Z",
+   "EndAt":"2022-10-09T16:00:00.000Z",
    "ServerTime":"1987-01-17T08:24:38+00:00",
    "Challenges":[
       {
          "ChallengeId":142,
          "Name":"CompleteILS",
-         "Config":"{ct:0,ipc:false,wc:[ct:0]}",
+         "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045}",
          "Description":"Complete the ^CrimsonCauldron quest",
          "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
          "Complete":false
